@@ -25,9 +25,9 @@ A Node.js command-line application that generates an SVG logo based on user inpu
 
 ## Walkthrough Video
 Walkthrough Video Link
-<iframe src="https://drive.google.com/file/d/1tCrMmmwgzKttjayiN-i_l_djiq7zLOww/preview" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/1tCrMmmwgzKttjayiN-i_l_djiq7zLOww/preview"
 
 ## Examples
 Generated SVG files can be found in the examples/ directory.
-C:\Users\alanna\bootcamp\Homework\Module-10_SVGLogoMaker\svg-logo-maker\LM-SS1.png
-C:\Users\alanna\bootcamp\Homework\Module-10_SVGLogoMaker\svg-logo-maker\LM-SS2.png
+![screenshot 1](assets/LM-SS1.png)
+![screenshot 2](assets/LM-SS2.png)
