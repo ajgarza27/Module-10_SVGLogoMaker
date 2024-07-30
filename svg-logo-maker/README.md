@@ -29,4 +29,5 @@ Walkthrough Video Link
 
 ## Examples
 Generated SVG files can be found in the examples/ directory.
-
+C:\Users\alanna\bootcamp\Homework\Module-10_SVGLogoMaker\svg-logo-maker\LM-SS1.png
+C:\Users\alanna\bootcamp\Homework\Module-10_SVGLogoMaker\svg-logo-maker\LM-SS2.png
